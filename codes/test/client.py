@@ -3,7 +3,7 @@ import socket
 
 # Object(s)
 # with open('../mount/config.json', 'r', encoding='utf-8') as file:
-with open('../config.json', 'r', encoding='utf-8') as file:
+with open('../../docker/mount/config.json', 'r', encoding='utf-8') as file:
     config = json.load(file)
 
 history = []
