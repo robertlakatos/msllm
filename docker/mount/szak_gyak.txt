@@ -1,0 +1,109 @@
+
+Szakmai gyakorlat 	
+
+A 15/2006 (IV.3) OM rendelet változása miatt hallgatóinknak diplomájuk megszerzéséhez szakmai gyakorlatot kell teljesíteniük. A 2014. szeptember után felvett hallgatók alapképzésben 320 munkaórát, mesterképzésben pedig 240 munkaórát kötelesek szakmai gyakorlaton részt venni.
+
+Az ország több felsőoktatási intézményéhez hasonlóan alapvetően mi is a hallgatókra számítunk abban, hogy találják meg a számukra megfelelő céget, vállalkozást, ahol fogadják őket szakmai gyakorlatra, hajlandóak egy munkahelyi gyakorlat vezetőt kijelölni és feladatot adni számukra.
+A szakmai gyakorlatra való jelentkezés feltétele
+
+A BSc szakokon az alábbi tárgyak teljesítése után lehet szakmai gyakorlatra jelentkezni.
+
+Programtervező informatikus:
+	
+- Magas szintű programozási nyelvek 2
+- Adatbázisrendszerek
+- Adatbázisrendszerek labor
+- Gazdaságinformatikus
+	
+Programozás 2
+
+- Számvitel
+- Mérnökinformatikus
+- Programozási nyelvek 2
+- Számítógépes hálózatok
+
+Az MSc szakokon:
+
+- Adattudomány
+
+a 2. félévtől kezdve lehet szakmai gyakorlatra jelentkezni
+
+- Gazdaságinformatikus
+- Mérnökinformatikus
+- Programtervező informatikus
+
+ 
+A szakmai gyakorlat folyamata
+
+2022. május 27. napjától kezdődően a szakmai gyakorlat adminisztrációja online rendszerben történik.
+
+ 
+
+Jelentkezés:
+
+A felület a következő linken érhető el a Bejelentkezést követően (jobb felső sarok): https://magpraktikum.hu/
+
+A legelső bejelentkezést megelőzően kérjük, regisztráljon az alábbi felületen: https://magpraktikum.hu/registration
+
+Ezt követően lépjen be eduID azonosítójával és jelszavával (a Neptunhoz használt felhasználónév és jelszó).
+
+Amennyiben a gyakorlati hely megegyezett a hallgatóval a szakmai gyakorlat idejéről és az elvégzendő feladatokról, a Fogadó nyilatkozatot (hiánytalanul kitöltve, aláírva, céges aláírással és bélyegzővel ellátva) a szakmai gyakorlat megkezdése előtt legalább 1 hónappal szükséges feltölteni az online rendszerbe.
+
+Fogadó nyilatkozat sablon letöltése ide kattintva.
+
+    Abban az esetben, ha a hallgató olyan cégnél szeretné teljesíteni a szakmai gyakorlatot, amivel az egyetemnek még nincs szerződése, a MAG Praktikum készíti el a Megállapodást, melyet a hallgatónak kell eljuttatnia céghez aláírásra, majd visszajuttatni a MAG Praktikumhoz. (A MAG Praktikum minden esetben értesíti a hallgatót, hogy hol és mikor veheti át a dokumentumokat.)
+    Amennyiben a cégnek már van szerződése az egyetemmel, akkor a MAG Praktikum által elkészített 1 oldalas szerződésmellékletet kell eljuttatnia a hallgatónak a céghez aláírásra, majd visszajuttatni a MAG Praktikumhoz. (A MAG Praktikum minden esetben értesíti a hallgatót, hogy hol és mikor veheti át a dokumentumokat.)
+
+Az aláírt Megállapodást és/vagy mellékletet a hallgatónak fel kell töltenie az online rendszerbe is.
+
+ 
+
+Teljesítés/lezárás:
+
+A szakmai gyakorlat teljesítését a hallgató az Igazolás szakmai gyakorlat teljesítéséről nyomtatvány kitöltésével és legalább 1 oldalas, a gyakorlati hely által jóváhagyott és ellenjegyzett gyakorlati beszámolóval igazolja le (hiánytalanul kitöltve, aláírva, céges aláírással és bélyegzővel ellátva), melynek elfogadásáról a szakmai gyakorlati albizottság dönt.
+
+A végzős hallgató a teljesítésről szóló igazolást és beszámolót (hiánytalanul kitöltve, aláírva, céges aláírással és bélyegzővel ellátva) a tervezett záróvizsga előtt legkésőbb 2 héttel köteles feltölteni az online rendszerbe.
+
+A 2022. május 27. előtt megküldött fogadó nyilatkozat esetében az adminisztráció még nem az új elektronikus rendszerben történt, így az igazolást és a beszámolót a szakmaigyakorlat@inf.unideb.hu email címre szkennelt formában szükséges megküldeni.
+
+Igazolás szakmai gyakorlat teljesítéséről sablon letöltése ide kattintva.
+
+Munkavégzés utólag nem számolható el szakmai gyakorlatként.
+
+Szakmai gyakorlat tárggyal kapcsolatos tudnivalók
+
+A 2021 és azt követő mintatanterves hallgatóknak 2022/23/1 félévtől a Szakmai gyakorlat tárgy felvétele és teljesítése kötelező.
+
+A Szakmai gyakorlat tárgy teljesítéséért kapott kreditek a kötelezően választható vagy a szabadon választható kreditekhez számolhatók el.
+
+Alapképzésen a mintatanterv szerint a 6. félévben ajánlott felvenni a tárgyat.
+
+A szakmai gyakorlat akkor kezdhető el, ha:
+
+    alapképzésben teljesítette a szakmai gyakorlat megkezdéséhez a TVSZ-ben előírt tantárgyi követelményeket
+    mesterképzésben a 2. aktív félévet kezdi meg
+
+A tárgy felvehető az őszi és a tavaszi félévben az első oktatási hét végéig, ezen túl további 3 hétig kérvénnyel, eljárási díj nélkül.
+Határidők:
+
+    Az adott félévben záróvizsgázó hallgatónak legkésőbb a záróvizsga időszak első napja előtt 2 héttel le kell adni a beszámolót és az igazolást is.
+    A tárgyat akkor érdemes felvenni az adott félévben, ha a szakmai gyakorlat teljesítésére, továbbá a szakmai gyakorlat leigazolására is sor kerül legkésőbb a vizsgaidőszak vége előtt egy héttel.
+    A nyáron teljesített szakmai gyakorlat esetén a következő félévben kell a tárgyat felvenni.
+
+ 
+Kapcsolattartás:
+
+MAG Praktikum
+MAG Praktikum rendszerrel kapcsolatos információk:
+E-mail: info@magpraktikum.hu
+Telefon: +36 52 512 900/88289
+Fogadóóra: Hétfő-péntek: 8.00-12.00
+Helyszín: 4032 Debrecen, Böszörményi út 138.
+Veres Péter Kollégium fsz.1.
+
+Tanulmányi Osztály
+Fogadóóra: Hétfő-péntek: 9.00-11.00
+Telefon: +36 52 512 900 / 75040
+E-mail: szakmaigyakorlat@inf.unideb.hu
+Szakmai gyakorlattal kapcsolatos információk:
+Helyszín: IF20 (Tanulmányi Osztály)

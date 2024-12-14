@@ -1,0 +1,297 @@
+A Debreceni Egyetem Informatikai
+Bevezetés
+Ezen informatikai szabályzat rendelkezik a Debreceni Egyetem Informatikai Karának
+(továbbiakban DEIK) kezelésében lévő informatikai közmű és informatikai eszközök
+felhasználási módjáról, a felhasználói jogokról, a különböző helyzetekben követendő
+eljárásokról. A szabályozás feladata, hogy működtetésében, használatában és fejlesztésében
+olyan eljárásokat írjon elő, amelyek a lehető legjobban biztosítják a DEIK felhasználói
+közössége számára az informatikai közmű, szolgáltatások és eszközök fenti célokra való
+rendeltetésszerű használhatóságát. Ezen felül meghatározza az üzemeltetők és felhasználók
+jogait és kötelességeit, kijelöli felelősségük határait.
+A DEIK elkötelezett abban, hogy a hallgatói és munkatársai számára folyamatosan bővülő
+számítógépes szolgáltatásaival segítse az oktatási-kutatási tevékenységet.
+A DEIK rendszerei az Debreceni Egyetem informatikai rendszerein keresztül kapcsolódnak az
+Internetre, így jelen szabályzatot a Debreceni Egyetem informatikai szabályzatai kari
+mellékleteként kell tekinteni.
+Szabályzat hatálya
+Időbeni hatálya
+Az Informatikai Szabályzat 2017. június elsején lép hatályba, és visszavonásig érvényes.
+Területi hatálya
+Informatikai Szabályzat területi hatálya alá tartoznak:
+● az informatikai infrastruktúra eszközei, és a hozzá tartozó alépítmények, helyiségek,
+● számítógéptermek és a hozzájuk kapcsolódó helyiségek,
+● a DEIK mindazon helyiségei, melyekben számítástechnikai berendezések üzemelnek.
+A kari kutató-fejlesztő laboratóriumok működtetésére külön szabályzatok léteznek, ezért
+ezekben a laboratóriumokban ezen szabályzatok mérvadóak.
+Személyi hatálya
+Informatikai Szabályzat hatálya alá tartoznak mindazok, akik a DEIK-kel munkavégzésre
+irányuló jogviszonyban állnak, valamint azok a munkatársak, akik a DEIK tulajdonában lévő
+informatikai eszközt, vagy a DEIK informatikai közművét használják.
+Tárgyi hatálya
+Informatikai Szabályzat tárgyi hatálya kiterjed a DEIK birtokában és tulajdonában lévő összes
+informatikai vagyontárgyra, szerződés alapján üzembe helyezett, nem kari tulajdonban lévő
+eszközökre (vezérlőeszközök, szerverek, munkaállomások, stb.), illetve – amennyiben a DEIK
+informatikai közművét használja - külső, non-profit intézmények, szervezetek, illetve
+munkatársak, hallgatók saját tulajdonú eszközeire, illetve számítógépeire, ezen belül
+eszköztípusonként:
+● a számítógép-hálózatok aktív és passzív elemeire,
+● szerverekre és hálózati szolgáltatást nyújtó berendezésekre,
+● valamennyi munkaállomásra, nyomtatóra,
+● perifériákra és tartozékaikra,
+● hordozható számítógépekre,
+● adathordozókra, és
+● valamennyi szoftverre.
+Informatikai szabályzat alkalmazása
+Az Informatikai Szabályzatot a következőként kell alkalmazni:
+● új eszközök esetén a szabályzat hatálybelépésétől
+● már működő eszközök, berendezések esetén 1 hónapos átmeneti/türelmi idővel.
+A Kar minden alkalmazottja számára kötelező az általános rendelkezéseknek, illetve a
+munkatársakra vonatkozó részek megismerése.
+A szabályzatot éves rendszerességgel felül kell vizsgálni, a jogszabályi környezet, a technikai
+feltételek miatti módosításokat át kell vezetni. A módosítást a Rendszergazdai Csoport
+munkájáért felelős (későbbiekben illetékes) dékánhelyettes koordinálja és terjeszti fel a
+dékánnak.
+Vonatkozó jogszabályok
+[1] A DE adatkezelési, adatvédelmi szabályzata, 2011
+[2] Debreceni Egyetem Informatikai Szolgáltató Központ Informatikai Felhasználói
+Szabályzat 2011
+[3] A Debreceni Egyetem Informatikai Szolgáltató Központ informatikai
+szolgáltatásaihoz kapcsolódó folyamatok biztonsági elemei 2011
+[4] DE informatikai rendszerének üzemeltető szabályzata (Debreceni Egyetem,
+Informatikai Szolgáltató Központ Informatikai Szolgáltatások) 2011
+[5] Nemzeti Információs Infrastruktúra Fejlesztési Program Felhasználói
+Szabályzata (AUP) 2008
+Fogalmak
+DEIKNET a kar számítógépes hálózata, beleértve a hálózati eszközöket, szervereket,
+általános célú számítógépeket és rendszerszoftvereket. Részét képezik a következő
+típusú eszközök: minden számítógépes hálózatra kötött számítógépes munkahely
+(PC, hálózati nyomtató) és szerver, passzív adatátviteli vonalak, csatlakozók, hálózati
+aktív elemek.
+A DEIKNET tervezéséért, továbbfejlesztéséért és üzemeltetéséért a Dékáni Hivatal
+részét képező Rendszergazdai Csoport felelős.
+Kari rendszergazda a kar kezelésében lévő számítástechnikai eszközök
+üzemeltetéséért, a számítógépek (és egyéb programozható eszközök) szoftvereinek
+telepítéséért, karbantartásáért, fejlesztéséért, hibáinak feltárásáért, lehetőség esetén
+javításáért, valamint a rendszer használat leíró dokumentáció elkészítéséért felelős
+személy.
+Tanszéki rendszergazda a tanszék kezelésében lévő számítástechnikai eszközök
+beállításaiért, üzemeltetéséért, hibáinak felderítéséért felelős személy.
+Belső felhasználó, azaz kari alkalmazott (oktató, Dékáni Hivatal munkatársa).
+Külső felhasználó: diák vagy más, nem kari alkalmazásban lévő munkatárs.
+Informatikai közmű: a betáplálási ponttól a felhasználói végpontokig terjedő aktív
+és passzív hálózati elemek, szerverek és köztük lévő kábelezés összessége.
+Szolgáltatások
+Szolgáltatási szintek
+Az informatikai szolgáltatások a következő szinteken valósulnak meg:
+1. egyetemi szint. Az Informatikai Szolgálató Központ (továbbiakban ISZK) biztosítja az
+egyetem informatikai alapszolgáltatásait (a közmű működtetése, felügyelete,
+fejlesztése), a központi informatikai szolgáltatásokat (központi címtár, levelezés, vírus
+és spamvédelem), valamint az ISZK szakemberei szakmai támogatást nyújtanak és
+koordinálnak az alsóbb szintek informatikusai számára.
+2. kari szint. A Rendszergazdai Csoport (továbbiakban RCs) a kari informatikai közmű
+működtetését, felügyeletét, fejlesztését látja el, kari szolgáltatásokat üzemeltet
+(levelezés, honlap, stb.), valamint a hallgatói laboratóriumok, a kari vezetés és a
+Dékáni Hivatal munkatársai által használt számítógépeket tartja oktatásra, illetve
+munkára alkalmas állapotban (telepítés, beállítások, hibaelhárítás.) Az RCs
+szakemberei segítik a tanszéki rendszergazdák illetve kari munkatársak munkáját.
+3. tanszéki szint. A tanszékvezető által kijelölt munkatárs a tanszéki munkaállomásokat
+menedzseli, tanszéki eszközök (pl. nyomtatók) beállításában segédkezik.
+4. munkaállomás szint. Lehetőség van arra, hogy a belső felhasználó a legálisan elérhető
+operációs rendszerek, különféle felhasználói vagy éppen fejlesztői programok közül
+tetszőlegesen választhasson; viszont ebben az esetben az általa használt
+számítógépnek rendszergazdája lesz. A RCs ekkor csak hardverproblémák
+elhárításáért lesz felelős, a szoftveres beállításokat a felhasználónak kell elvégeznie.
+Olyan beállítások vagy szoftverek használata esetén, mely a kari közmű és
+szolgáltatások működését megnehezíti, a munkaállomás hozzáférése, illetve rá
+vonatkozóan egyes szolgáltatások (például nyomtatás) elérése korlátozható. (Nem
+azonnali beavatkozást igénylő - mint például feltört munkaállomás - esetben a
+korlátozást egy felszólítás előzi meg, mely tájékoztatja a felhasználót a problémát
+okozó tevékenységről és a követendő magatartásról.)
+Egyetemi szintű szolgáltatások
+Az egyetemi polgárok által igénybe vehető szolgáltatások jelentős részét az ISZK biztosítja, a
+kari Informatikai Szabályzat csupán felsorolja ezeket, lehatárolva a kari felelősségeket:
+● eduID hálózati azonosító [2:4.2]
+● központi openVPN szolgáltatás [2:4.6]
+● eduroam WiFi hozzáférés [2:4.7]
+● központi email szolgáltatás (@unideb.hu levélcímek és központi SMTP szerver) [2 4.9]
+● Intézményi szoftverlicencek kezelése, szoftverek letöltése (soft.unideb.hu) [2:4.9]
+● Központi egyéni webtárhely és shell account (http://web.unideb.hu/~eduID,
+shrek.unideb.hu) [2:4.11]
+● központi tanulmányi és elearning rendszerek (neptun.unideb.hu és
+elearning.unideb.hu) [2:4.12]
+● IP és hagyományos telefon szolgáltatás
+Az Rendszergazdai Csoport ezekhez kapcsolódóan csupán közvetői szerepe van, a különféle
+beállítások valamint a hibaelhárítás az ISZK feladata.
+Felhasználóknak nyújtott kari szolgáltatások
+● A https://zimbra.inf.unideb.hu címen is elérhető Zimbra levelezőrendszer
+használatára jogosult minden belső felhasználó (beleértve a nappali tagozatos PhD
+hallgatókat az ösztöndíjuk időtartamára).
+● A arato.inf.unideb.hu címen webtárhely és shell elérés biztosított a belső
+felhasználóknak. Indokolt esetben (tanszék, konferencia, stb.) írásbeli kérésre az
+illetékes dékánhelyettes adhat további accountokat határozott időtartamra.
+● A Gyires Béla tananyag tárház a karon vagy kari részvétellel készült oktatási
+anyagainak repozitóriuma. Ide új tananyag tanszékvezetői ajánlással kerülhet be, az
+illetékes dékánhelyettes közreműködésével.
+● A kari szerverterem a lehetőséghez mérten (mind fizikailag létező, mind virtuális
+szerverek tekintetében) szerverhoszting szolgáltatást biztosít belső felhasználói
+számára kutatási/oktatási célok elérése érdekében.
+● A hallgatói géptermekben a külső és belső felhasználók használhatják az ott
+elhelyezett számítógépeket, az azokra telepített jogtiszta programokat.
+Gazdaságosság
+Az informatikai szolgáltatások kialakításának, működtetésének során figyelembe kell venni a
+gazdaságossági és gazdálkodási szempontokat is. Folyamatosan követni kell az egyes
+rendszerek, szoftverek és szolgáltatások árait, és azok, a felhasználói visszajelzések, valamint
+a várható trendek figyelembe vételével kell meghatározni a fejlesztési irányokat, szolgáltatási
+szinteket.
+Szolgáltatási időszak, elérhetőségek
+Az Rendszergazdai Csoport munkaideje
+● hétfő-csütörtök 7:30-16:00
+● péntek 7:30-13:30.
+A Rendszergazdai Csoport elérhetőségét, a fogadóórák időpontját a kari honlap tartalmazza.
+Az Rendszergazdai Csoport a sysadmin@inf.unideb.hu címre írt levélre 2 munkanapon belül
+érdemi választ köteles adni.
+Az Rendszergazdai Csoport munkaidőn kívül ügyeleti szolgáltatást nyújt, ami a 75375-ös
+belső egyetemi melléken vagy a +36305359731 mobil számon érhető el. Ügyeletben a kari
+infrastruktúra működését jelentős mértékben akadályozó probléma esetén kell azonnal
+megkezdeni a hiba elhárítását. Lokális problémák esetén erre a következő munkanapon kerül
+sor.
+Üzemeltetői szabályzat
+Rendszergazdai Csoport feladatai
+● DEIK informatikai hálózat üzemeltetése (rendszernaplók napi átvizsgálása,
+archiválása, javító/helyreállító munkák; végpontok adminisztrációja, rack
+szekrények kábelezése, hálózati paraméterek beállítása), incidensek jelentése a
+gazdasági dékánhelyettes irányába,
+● Új felhasználók beléptetése, távozó felhasználók törlése a kari rendszerekben
+● Szerverfunkciók üzemeltetése (DHCP, LDAP-mirror, SSH, HTTP, FTP, Licence;
+rendszernaplók kezelése)
+● Levelezőrendszer üzemeltetése (levelezőlisták karbantartása, vírus- és spamszűrés;
+rendszernaplók kezelése, szükség szerint javítás/helyreállítás)
+● Dékáni Hivatal számítógépeinek, berendezéseinek üzemeltetése, karbantartása
+(jelzett hibák elhárítása/megoldása)
+● segítségnyújtás a kutató-fejlesztő laborok számítógépeinek, berendezéseinek
+üzemeltetésében, karbantartásában
+● Hallgatói laborok számítógépeinek üzemeltetése, rendszeres (heti) ellenőrzése
+● Tantermek projektorainak üzemeltetése, rendszeres (heti) ellenőrzése,
+kapcsolattartás a szervizzel
+● Dell EMC Blade + storage üzemeltetése (szerverek, virtuális számítógépek;
+rendszernaplók kezelése, szükség szerint javítás/helyreállítás, virtuális gépek napi
+ellenőrzése)
+● Heti rendszeres mentés (beállítások, felhasználók home könyvtára (arato), levelezés,
+honlap)
+● Központi nyomtatók üzemeltetése (napi helyszíni ellenőrzés, szerviz kapcsolattartás)
+● Tanszéki hálózati csomópontok nyilvántartásának kezelése (kari DHCP szerver,
+egyetemi DNS szerver, tanszéki rendszergazdai kérésre indul)
+● 7/24 ügyelet, alapműködést befolyásoló leállás azonnali elhárítására (teljes hálózat,
+szerver funkciók, termek leállása)
+● Informatikai beszerzések, garanciális ügyintézések bonyolítása, kapcsolattartás a
+beszállítókkal
+● Kari, tanszéki eszközök garancián túli javításának ügyintézése (fogadóóra során
+ellenőrzés, tanácsadás, bevizsgálás)
+● Kari szoftvernyilvántatás karbantartása
+● DEIK accountok kezelése (nyilvántartások karbantartása, féléves felülvizsgálat
+ideiglenes account esetén, évente jelszavak erősségének vizsgálata)
+● kari DEKa kártyák (kapcsolódó belépési jogok) nyilvántartása, kapcsolattartás a
+gyártóval
+● Közreműködés leltározásban, eszköznyilvántartásban, selejtezésben
+● Tanácsadás, segítség rendezvények (versenyek, konferenciák) informatikai
+környezetének kialakításában
+● Tűz és munkavédelmi feladatok (részvétel továbbképzésen, oktatás biztosítása a
+DEIK munkatársainak, kapcsolattartás az egyetemi szervezetekkel)
+● Tervezett leállás esetén, két munkanappal korábban írásos értesítése a belső
+munkatársaknak.
+Tanszéki rendszergazda feladatai
+● A tanszék használatában lévő eszközökre vonatkozóan incidensek, problémák
+kezelése, megoldása, kérdések megválaszolása, változtatáskérelmek fogadása,
+konfigurációkezelés, új eszközök esetén, igény szerint rendszertelepítés.
+● Első vonalbeli támogatás, esetleges hibaelhárítás, háttértámogatás kérése a
+Rendszergazdai Csoporttól.
+Illetékes dékánhelyettes feladatai
+● felügyeli a Rendszergazdai Csoport tevékenységét
+● javaslatot tesz az informatikai rendszer szűk keresztmetszeteinek felszámolására,
+beleértve a hardver beszerzéseket
+● ellenőrzi az informatikai szabályzat betartását
+● közreműködik a katasztrófa-elhárítási tervek elkészítésében, felügyeli azok
+tesztelését.
+Felhasználói szabályzat
+Belső munkatárs
+feladatai
+● A rendelkezésére bocsájtott informatikai eszközök megóvása. Anyagilag felelős a
+leltári nyilvántartásban szereplő, személyhez rendelt informatikai eszközök (hardver
+és szoftver) megőrzéséért, gondos kezeléséért.
+● megismeri a kari vezetés által támogatottnak tekintett szoftverek kezelését, és adott
+kari projektek esetén kizárólag ezeket használja;
+● megismeri a kari honlapon elhelyezett tájékoztatók tartalmát;
+● kari feladatainak ellátása során a belső levelezőrendszert veszi igénybe;
+● gondoskodik az általa létrehozott adatok rendszeres mentéséről;
+● érzékeny adatok esetén gondoskodik azok biztonságos tárolásáról;
+● a belépési jelszavait gondozza, titkosságát megőrzi, rendszeres időközönként, vagy
+rendszergazdai kérésre megváltoztatja;
+● az informatikai eszközeit rendeltetésszerűen használja;
+● a tudomására jutó meghibásodásokról írásban (email) értesíti a Rendszergazdai
+Csoportot;
+● más felhasználókat figyelmeztet a szabályok betartására;
+● a kari honlapon karbantartja saját adatait
+jogai
+● az általa használt munkaállomáson szabadon megválaszthatja az alkalmazandó
+programok körét;
+● az arato.inf.unideb.hu szerveren tárhelyet, shell accountot kap, ezen keresztül az
+egyetemi hálózaton kívülről is elérheti a DEIKNET szolgáltatásait
+● az egyetemi VPN megoldást használva elérheti a DEIKNET szolgáltatásait
+nem jogosult
+● munkaállomását megbontani; a hálózatot megbontani, átstrukturálni; engedély
+nélkül gépeket, eszközöket a kari hálózathoz csatlakoztatni
+● más felhasználó dokumentumait illetéktelenül megtekinteni, másolni
+● engedély nélkül saját wifi acces point, vagy egyetemi hálózatot módosító átjáró
+létesítésére, és minden olyan tevékenységre, ami a kari informatikai szolgáltatások
+működési biztonságát veszélyezteti.
+Külső munkatárs
+feladatai
+● az informatika eszközöket rendeltetésszerűen használja, különös tekintettel a
+hálózat egységére;
+● a meghibásodott informatikai berendezésekről haladéktalanul értesíti valamely belső
+munkatársat;
+● az eduID azonosítójának jelszavát bizalmasan kezeli, mással nem osztja meg;
+● Internet elérés esetén tiszteletben tartja az akadémiai szféra előírásait [5]
+jogai
+● tanulási/kutatási célokra igénybe veheti a kari informatikai infrastruktúrát
+● a kari elektronikus hálózatot igénybe veheti a saját elektronikai eszközeinek
+feltöltésére, figyelembe véve az adott végpontok kapacitását.
+nem jogosult
+● a hálózatot megbontani, átstrukturálni; engedély nélkül gépeket, eszközöket a kari
+hálózathoz csatlakoztatni
+● más felhasználók munkájának megzavarására, dokumentumainak illetéktelen
+megtekintésére, másolására
+Adatbiztonság
+Rendelkezésre állás
+A kari informatikai infrastruktúra magasabb szintű rendelkezésre állása elsősorban a
+homogén hardver- és szoftverkörnyezet biztosításával érhető el. A homogén
+hardverkörnyezetet legalább géptermi szinten biztosítani kell. Az operációs rendszer az összes
+laborban egységes, míg a telepített alkalmazói programok laborszinten egységesek. A
+szoftverkörnyezet felülvizsgálatára szemeszterenként került sor, a belső felhasználók
+bevonásával.
+Az állásidő csökkentésére riasztási rendszer kialakításával (hallgató–oktató–rendszergazda),
+hatékony mentési eljárásokkal, munkatársak képzésével, és megfelelő raktárkészlet (hideg-
+meleg tartalék, alkatrészek, tisztítóanyagok, kellékanyagok) biztosításával, valamint a
+munkaállomások rendszeres karbantartásával/portalanításával készül fel a Rendszergazdai
+Csoport.
+Szerverszobák
+A szerverterem ajtóinak folyamatosan zárva kell lennie. A szerverteremben belső felhasználó
+csak rendszergazda felügyelete alatt tartózkodhat. Szerverteremben enni, inni tilos! A
+szerverterem rendjének kialakításáért és megtartásáért a Rendszergazdai Csoport felelős.
+Rendszeres mentés
+A kari működést megalapozó adatoknál többszintű mentés kialakítása és alkalmazása
+szükséges. A Dékáni Hivatal munkatársainak kötelessége a személyes kezelésű adatok napi
+mentése külső adathordozóra vagy távoli szerverre.
+Katasztrófahelyzetek
+Minden elővigyázatosság ellenére sem lehet katasztrófahelyzet kialakulását kizárni. Habár az
+előfordulás esélye alacsony, az általa okozott anyagi kár jelentős lehet a kieső szolgáltatás
+fontossága és annak eredeti színvonalra visszaállításához szükséges idő függvényében. A
+katasztrófa elhárítási tervekben foglalt intézkedések ismeretét rendszeres időközönként
+ellenőrizni kell. A katasztrófa elhárítási tervek végrehajtásának képességét rendszeres
+időközönként tesztelni kell. Ezen tesztelés során ügyelni kell arra, hogy az károsan ne
+befolyásolja az informatikai rendszerek működését.
+Záró rendelkezések
+A jelen Szabályzat és annak függelékei 2017. év július hó 1. napján lépnek hatályba
+a Szabályzat kihirdetésével. Kihirdetésnek minősül a Kar honlapján történő
+közzététel. A Szabályzat a következő linken érhető el: www.inf.unideb.hu
+/hu/letoltheto
