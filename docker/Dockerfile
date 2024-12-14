@@ -25,8 +25,8 @@ ENV PYTHONUNBUFFERED=1
 WORKDIR /msllm/codes
 
 # Parancs a Python program futtatásához
-# CMD ["tail", "-f", "/dev/null"]
-CMD ["sh", "-c", "python server.py >> /msllm/logs/msllm.log 2>&1"]
+CMD ["tail", "-f", "/dev/null"]
+# CMD ["sh", "-c", "python server.py >> /msllm/logs/msllm.log 2>&1"]
 
 # Port kiadása
 EXPOSE 20249
